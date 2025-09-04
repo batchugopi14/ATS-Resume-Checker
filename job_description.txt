@@ -1,0 +1,7 @@
+Preferred education
+Bachelor's Degree
+Required technical and professional expertise
+* In depth experience with Java/C# and Java libraries (Spring Framework, Guava, Apache Commons, Guice / Dependency Injection, JPA)
+* Good SQL / Relational Databases knowledge
+* MVS / COBOL / JCL knowledge
+* Practical skills in CI/CD - some of Git, Maven, Gradle, Docker, Jenkins, Jira
